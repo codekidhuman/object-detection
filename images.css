@@ -1,0 +1,31 @@
+#header
+{
+    white-space: nowrap;
+    background-color: antiquewhite;
+    width: 100%;
+}
+#NOO
+{
+    width: 66%;
+}
+.head
+{
+display: inline-block;
+}
+#back
+{
+    float: left;
+}
+#status
+{
+    float: right;
+}
+#headerer
+{
+    color: rgb(67, 50, 25);
+}
+canvas
+{
+background-color: antiquewhite;
+border: 10px white solid;
+}
